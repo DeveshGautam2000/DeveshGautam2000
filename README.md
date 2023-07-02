@@ -9,7 +9,7 @@ Engaged, creative Computer Science Learner.
 * 🌍  I'm based in Raipur
 * ✉️  You can contact me at [deveshgautam2022@gmail.com](mailto:deveshgautam2022@gmail.com)
 * 🧠  I'm learning Everyday Something New
-* 🤝  I'm open to collaborating on Anything which uses JS
+* 🤝  I'm open to collaborating on Anything which uses JS and Python
 * ⚡  i'm secretly spider man......but don't tell anyone.
 
 ### Skills
